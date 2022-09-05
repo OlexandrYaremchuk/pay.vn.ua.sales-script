@@ -1,3 +1,10 @@
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: white;
+}
 body {
   text-decoration: none;
   /* margin: 0 45px; */
@@ -32,4 +39,12 @@ margin-bottom: 10px;
 .answer_btn{
 margin: 0 55px 10px 0;
 
+}
+.strong-st{
+  background-color: #0388fc;
+}  
+.list{
+  text-align: left;
+  color: white;
+  font-weight: 400;
 }
